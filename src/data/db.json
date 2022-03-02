@@ -1,0 +1,176 @@
+[
+    {
+        "id": 29,
+        "path": "chap24",
+        "title": "Chapter 24",
+        "total_pages": 31
+    },
+    {
+        "id": 28,
+        "path": "chap23",
+        "title": "Chapter 23",
+        "total_pages": 23
+    },
+    {
+        "id": 27,
+        "path": "chap22",
+        "title": "Chapter 22",
+        "total_pages": 16
+    },
+    {
+        "id": 26,
+        "path": "chap21",
+        "title": "Chapter 21",
+        "total_pages": 28
+    },
+    {
+        "id": 25,
+        "path": "chap20",
+        "title": "Chapter 20",
+        "total_pages": 30
+    },
+    {
+        "id": 24,
+        "path": "chap19.5",
+        "title": "Chapter 19.5",
+        "total_pages": 23
+    },
+    {
+        "id": 23,
+        "path": "chap19",
+        "title": "Chapter 19",
+        "total_pages": 18
+    },
+    {
+        "id": 22,
+        "path": "chap18.5",
+        "title": "Chapter 18.5",
+        "total_pages": 2
+    },
+    {
+        "id": 21,
+        "path": "chap18",
+        "title": "Chapter 18",
+        "total_pages": 10
+    },
+    {
+        "id": 20,
+        "path": "chap17",
+        "title": "Chapter 17",
+        "total_pages": 30
+    },
+    {
+        "id": 19,
+        "path": "chap16.5",
+        "title": "Chapter 16.5",
+        "total_pages": 32
+    },
+    {
+        "id": 18,
+        "path": "chap16",
+        "title": "Chapter 16",
+        "total_pages": 16
+    },
+    {
+        "id": 17,
+        "path": "chap15",
+        "title": "Chapter 15",
+        "total_pages": 12
+    },
+    {
+        "id": 16,
+        "path": "chap14",
+        "title": "Chapter 14",
+        "total_pages": 22
+    },
+    {
+        "id": 15,
+        "path": "chap13",
+        "title": "Chapter 13",
+        "total_pages": 10
+    },
+    {
+        "id": 14,
+        "path": "chap12.5",
+        "title": "Chapter 12.5",
+        "total_pages": 19
+    },
+    {
+        "id": 13,
+        "path": "chap12",
+        "title": "Chapter 12",
+        "total_pages": 17
+    },
+    {
+        "id": 12,
+        "path": "chap11",
+        "title": "Chapter 11",
+        "total_pages": 30
+    },
+    {
+        "id": 11,
+        "path": "chap10",
+        "title": "Chapter 10",
+        "total_pages": 26
+    },
+    {
+        "id": 10,
+        "path": "chap9",
+        "title": "Chapter 9",
+        "total_pages": 27
+    },
+    {
+        "id": 9,
+        "path": "chap8",
+        "title": "Chapter 8",
+        "total_pages": 20
+    },
+    {
+        "id": 8,
+        "path": "chap7",
+        "title": "Chapter 7",
+        "total_pages": 18
+    },
+    {
+        "id": 7,
+        "path": "chap6",
+        "title": "Chapter 6",
+        "total_pages": 16
+    },
+    {
+        "id": 6,
+        "path": "chap5.5",
+        "title": "Chapter 5.5",
+        "total_pages": 20
+    },
+    {
+        "id": 5,
+        "path": "chap5",
+        "title": "Chapter 5",
+        "total_pages": 21
+    },
+    {
+        "id": 4,
+        "path": "chap4",
+        "title": "Chapter 4",
+        "total_pages": 18
+    },
+    {
+        "id": 3,
+        "path": "chap3",
+        "title": "Chapter 3",
+        "total_pages": 30
+    },
+    {
+        "id": 2,
+        "path": "chap2",
+        "title": "Chapter 2",
+        "total_pages": 30
+    },
+    {
+        "id": 1,
+        "path": "chap1",
+        "title": "Chapter 1",
+        "total_pages": 38
+    }
+]

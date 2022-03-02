@@ -1,0 +1,95 @@
+h1.chapter-title {
+    text-align: center;
+    color: #fff;
+    display: block;
+    font-weight: 500;
+    font-size: 35px;
+    margin-bottom: 20%;
+    overflow-wrap: break-word;
+    text-transform: uppercase;
+}
+
+.chapter-container {
+    background-color: #242525;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 6% 6%;
+}
+.nav-last-page {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 6% auto 3%;
+}
+.nav-last-page .no-next {
+    width: 200px;
+    padding: 15px 15px;
+    justify-content: space-between;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.nav-last-page .prev {
+    width: 200px;
+    padding: 15px 15px;
+    justify-content: space-between;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: right;
+    font-size: 1.2em;
+}
+
+.nav-last-page .next {
+    width: 200px;
+    padding: 15px 15px;
+    justify-content: space-between;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.nav-last-page .no-prev {
+    width: 200px;
+    padding: 15px 15px;
+    justify-content: space-between;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: right;
+    font-size: 1.2em;
+}
+
+img {
+    width: 80%;
+    margin-bottom: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (max-width: 768px) {
+    .chapter-title {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 596px) {
+    .chapter-container {
+        width: 100%;
+    }
+}
